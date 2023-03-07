@@ -1,4 +1,4 @@
-package com.example.petclinic;
+package com.example.petclinic.logic;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
